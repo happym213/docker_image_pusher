@@ -7,3 +7,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 andrius/asterisk
 freepbx/freepbx
+myfs:latest
